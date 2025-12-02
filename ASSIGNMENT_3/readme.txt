@@ -30,7 +30,6 @@ Project Structure
 python-3 library manager/
 │
 ├── cli/
-│   ├── _init_.py
 │   └── main.py               # Contains the main menu and user interface
 │
 ├── library_manager/
@@ -38,8 +37,11 @@ python-3 library manager/
 │   ├── book.py               # Defines the Book class
 │   └── inventory.py          # Handles library operations and file storage
 │
+├── tests
+│  └── test_inventory.py
 ├── catalog.json              # Stores all book records permanently
 │
+├── requirements.txt
 └── README.md                 # Project documentation
 
 How to Run the Program
