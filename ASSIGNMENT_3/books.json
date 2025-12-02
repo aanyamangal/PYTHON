@@ -1,0 +1,32 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780061120084",
+        "status": "issued"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": "234567890",
+        "status": "available"
+    },
+    {
+        "title": "It Ends with US",
+        "author": "Colleen Hoover",
+        "isbn": "678945320",
+        "status": "issued"
+    },
+    {
+        "title": "The Republic",
+        "author": "Plato",
+        "isbn": "23456789012",
+        "status": "available"
+    },
+    {
+        "title": "The Room on the Roof",
+        "author": "Ruskin Bond",
+        "isbn": "987654321",
+        "status": "available"
+    }
+]
