@@ -1,0 +1,4 @@
+CAMPUS ENERGY SUMMARY
+-----------------------
+Total kWh: 2491.00
+Top Building: adminblock = 832.00 kWh

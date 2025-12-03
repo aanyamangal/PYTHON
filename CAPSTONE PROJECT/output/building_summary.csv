@@ -1,0 +1,4 @@
+building,total_kwh,mean_kwh,min_kwh,max_kwh
+adminblock,832,34.666666666666664,20,45
+hostel,1094,45.583333333333336,28,58
+library,565,23.541666666666668,12,34
